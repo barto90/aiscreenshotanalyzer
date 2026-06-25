@@ -4,7 +4,7 @@ Copy an image to your clipboard. Get AI analysis back. That's it.
 
 This script watches your Windows clipboard for new images (screenshots, snips, copied images) and automatically sends them to Azure OpenAI's GPT-4o vision API for analysis. Supports both free-text responses and structured output with custom JSON schemas.
 
-Part of the **Scripting Like a Pro** blog series — [#58: PowerShell AI Clipboard Watcher](https://yoursite.com/blog/58).
+Part of the **Scripting Like a Pro** blog series — [#58: PowerShell AI Clipboard Watcher](https://bartpasmans.tech/powershell-ai-clipboard-watcher/).
 
 ## What's Included
 
@@ -125,4 +125,4 @@ $result.command     # command to run
 
 ## License
 
-MIT
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — Free to use, share, and adapt for non-commercial purposes with attribution.
